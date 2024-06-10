@@ -1,0 +1,16 @@
+{
+  "name": "Scripts.Scenes.Battle.Shared",
+  "rootNamespace": "",
+  "references": [
+    "GUID:00f47f4ad9084452b0eb7f38121b161b"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

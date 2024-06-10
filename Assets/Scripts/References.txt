@@ -1,0 +1,6 @@
+
+Use classes and other managed types with Unity's Job System.
+The Job System only accepts blittable struct types for jobs. 
+This package makes it easy to use managed types as jobs by providing blittable structs that reference managed objects using GCHandle and forward job execution to them.
+https://github.com/gilzoide/unity-managed-jobs
+

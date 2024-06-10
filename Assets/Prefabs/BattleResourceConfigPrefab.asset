@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5694ea6448804b4ea0388e29317b9684, type: 3}
+  m_Name: BattleResourceConfigPrefab
+  m_EditorClassIdentifier: 
+  _Prefabs:
+  - {fileID: 4320020016619580866, guid: a7159d86415fe3b419a7811ae3ba4892, type: 3}
+  - {fileID: 6688986159970458603, guid: 41acfe446f11c0345af836e99f0e491a, type: 3}
+  - {fileID: 1885787990311521535, guid: 6f2aadbe758f5674a9a742b7bcabd7c0, type: 3}
+  - {fileID: 99378562584618145, guid: 8dea06ff863327740a3ffd026ca4a6ad, type: 3}

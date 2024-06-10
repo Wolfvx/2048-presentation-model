@@ -1,0 +1,16 @@
+{
+	"name": "Scripts.Game.Shared",
+	"rootNamespace": "",
+	"references": [
+		"UniRx"
+	],
+	"includePlatforms": [],
+	"excludePlatforms": [],
+	"allowUnsafeCode": false,
+	"overrideReferences": false,
+	"precompiledReferences": [],
+	"autoReferenced": true,
+	"defineConstraints": [],
+	"versionDefines": [],
+	"noEngineReferences": false
+}

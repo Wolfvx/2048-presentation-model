@@ -1,0 +1,17 @@
+{
+    "name": "Scripts.Core",
+    "rootNamespace": "",
+    "references": [
+        "Scripts.Core.Shared",
+        "UniRx"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
